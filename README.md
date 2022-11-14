@@ -1,8 +1,8 @@
-## Web Scraping the Ryman Calendar
+# Web Scraping the Ryman Calendar
 
-# Project: Turn the Ryman Auditorium's online calendar into a Pandas dataframe.
+## Project: Turn the Ryman Auditorium's online calendar into a Pandas dataframe.
 
-# Method: Used BeautifulSoup to parse the HTML, extract text. Extracted events using patterns of formatting notations and regular expressions. Nested this into a loop to iterate over all pages (seven at time of exercise) of Ryman's online schedule.
+## Method: Used BeautifulSoup to parse the HTML, extract text. Extracted events using patterns of formatting notations and regular expressions. Nested this into a loop to iterate over all pages (seven at time of exercise) of Ryman's online schedule.
 
 In this exercise, your objective is to use BeautifulSoup in order to obtain a dataset of upcoming events at the Ryman. This information is available at https://ryman.com/events/, but you will take the contents of this website and convert it into a pandas DataFrame.
 
